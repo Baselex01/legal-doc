@@ -10,7 +10,7 @@ We welcome contributions in the form of issues or pull requests. If you need hel
 
 License
 
-Series Seed is open sourced under CC0.
+BaseLex Documents are open sourced under CC0.
 
 Disclaimer
 
