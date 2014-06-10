@@ -10,7 +10,7 @@ We welcome contributions in the form of issues or pull requests. If you need hel
 
 ##BaseLex specific formatting
 
-Each document that is merged in to the the main repositories should have tags added, such as [[patent]] or [Real Estate]]. This aids in our searching the documents for future use. 
+Each document that is merged in to the the main repositories should have tags added, such as [patent] or [Real Estate]. This aids in our searching the documents for future use. 
 
 ##License
 
