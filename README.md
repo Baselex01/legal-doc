@@ -2,7 +2,7 @@
 
 ##About
 
-Welcome to the GitHub repository BaseLex Documents. 
+Welcome to the GitHub repository for BaseLex Documents. 
 
 ##Contributing
 
