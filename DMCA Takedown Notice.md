@@ -31,7 +31,7 @@ Source: Miskatonic Business Review
 I hereby request that you remove or disable access to this material as it appears on your service in as expedient a fashion as possible.
 Thank you for your kind cooperation.
 
-Please note there would be no charge to instead post just the article description along with a link to the first page of the article at www.hbr.org where the viewer can either register at our site or order a download if they are interested in reading the full article.
+Please note there would be no charge to instead post just the article description along with a link to the first page of the article at www.miskbra.org where the viewer can either register at our site or order a download if they are interested in reading the full article.
 
 For example:
 
