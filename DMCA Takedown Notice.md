@@ -1,5 +1,5 @@
 [copyright] [template] [DMCA]
-##DMCA takedown Notice
+# DMCA takedown Notice
 
 Attention infringer.com:
 
