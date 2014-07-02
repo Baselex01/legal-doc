@@ -5,7 +5,7 @@
 
 This Employee Confidentiality and Non-Disclosure Agreement (the "Agreement"), executed this ____ day of _____________, 20____, but effective for all purposes on the Effective Date, is entered into, by and among "[COMPANY NAME]" ("[AKA]"), a [state and entity type], and ____________________________________, an individual and Employee of "[AKA]" ("Employee").
 
-1.  RECITALS
+##1.  RECITALS
   1.1.  Employee is an "at will" employee of "[AKA]".
 
   1.2.  Employee understands that the employment opportunity extended by "[AKA]" to Employee requires that employee understand, agree to and abide by the terms of this Agreement.
@@ -26,7 +26,7 @@ This Employee Confidentiality and Non-Disclosure Agreement (the "Agreement"), ex
 
 IN CONSIDERATION of the mutual covenants and agreements contained herein, and or such other good and valuable consideration, the receipt and adequacy of which is hereby admitted and acknowledged, the parties hereto agree as follows:
 
-2.  DEFINITIONS
+##2.  DEFINITIONS
 
   2.1.  "Agreement" shall mean this Confidentiality and Non Disclosure Agreement.
 
@@ -58,11 +58,11 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
   2.9.  [AKA] Executive Officer: "[AKA] Executive Officer" shall, for the purposes of this Agreement only, include [AKA]'s Chairman of the Board, Chief Executive Officer, or President.
 
-3.  TERM
+##3.  TERM
 
   3.1.  This Agreement shall be effective from and including the Effective Date through the end of time and shall not in any way be deemed to expire at the time of any termination of Employee's employment by [AKA], regardless of circumstances.
 
-4.  EMPLOYEE'S REPRESENTATIONS
+##4.  EMPLOYEE'S REPRESENTATIONS
 
   4.1.  Confidential Information: Employee acknowledges that the Confidential Information is sophisticated, is not generally known to the public or to others in [AKA]'s industry, and has entailed the expenditure of substantial costs and effort on [AKA]'s behalf over a long period of time.
 
@@ -70,7 +70,7 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
   4.3.  Prior Contacts: Employee represents that Employee has had and will in the future have access to the Confidential Information of [AKA] through Employee's past, current, and future contacts with [AKA].
 
-5.  PROTECTION OF CONFIDENTIAL INFORMATION
+##5.  PROTECTION OF CONFIDENTIAL INFORMATION
 
   5.1.  Confidential Information:
 
@@ -96,13 +96,13 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
     5.5.3.  taking such additional action (including, but not limited to the execution and delivery of documents) to perfect, evidence or vest [AKA] or [AKA]'s designee, all right, title and interest in and to any Confidential Information and/or Materials.
 
-6.  INJUNCTIVE RELIEF.  Employee acknowledges that a breach of this Agreement would cause [AKA] irreparable harm, for which money is NOT an adequate compensation. Employee agrees that [AKA] shall be entitled to injunctive relief and specific performance to enforce this Agreement, in addition to damages and other available remedies.
+##6.  INJUNCTIVE RELIEF.  Employee acknowledges that a breach of this Agreement would cause [AKA] irreparable harm, for which money is NOT an adequate compensation. Employee agrees that [AKA] shall be entitled to injunctive relief and specific performance to enforce this Agreement, in addition to damages and other available remedies.
 
-7.  ADDITIONAL REMEDIES.  Nothing in this Agreement is intended to restrict or limit any rights that [AKA] may have.
+##7.  ADDITIONAL REMEDIES.  Nothing in this Agreement is intended to restrict or limit any rights that [AKA] may have.
 
-8.  SURVIVAL OF REPRESENTATIONS AND WARRANTIES.  Each and every representation, warranty and covenant set forth herein is true as of the date of execution and shall survive the same.
+##8.  SURVIVAL OF REPRESENTATIONS AND WARRANTIES.  Each and every representation, warranty and covenant set forth herein is true as of the date of execution and shall survive the same.
 
-9.  ENTIRE AGREEMENT
+##9.  ENTIRE AGREEMENT
 
   9.1.  Sole Agreement: This Agreement contains the parties' sole and entire agreement regarding the subject matter hereof, and supersedes any and all other agreements between them.
 
@@ -110,35 +110,35 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
   9.3.  No Reliance: The parties further acknowledge that any statements or representations that may have been made by any of them to the others are void and of not effect. No party has relied on any such statements or representations in dealing with the other(s).
 
-10. NO OBLIGATION.  This Agreement does not require [AKA] to disclose any particular information.  Any disclosure is voluntary and except for the obligations specified in this agreement, no obligation, contract, liability or relationship is created or modified as a result of any disclosures. Similarly, the disclosure of Confidential Information under this agreement does not grant, create, confer, modify or transfer any right, license or authority in or to such Confidential Information.
+##10. NO OBLIGATION.  This Agreement does not require [AKA] to disclose any particular information.  Any disclosure is voluntary and except for the obligations specified in this agreement, no obligation, contract, liability or relationship is created or modified as a result of any disclosures. Similarly, the disclosure of Confidential Information under this agreement does not grant, create, confer, modify or transfer any right, license or authority in or to such Confidential Information.
 
-11. BACKGROUND CHECK & SECURITY CLEARANCES.
+##11. BACKGROUND CHECK & SECURITY CLEARANCES.
 
   11.1. Employee hereby gives [AKA] consent to perform a comprehensive background check at any time at [AKA]'s sole discretion.
 
   11.2. Employee consents to make him/her/itself available for any certifications, clearances and tests, including but not limited to, personal and professional background checks and drug testing, as may be required by [AKA] or pursuant to any contract between [AKA] and any third party or affiliate.
 
-12. NO MODIFICATIONS OR WAIVERS
+##12. NO MODIFICATIONS OR WAIVERS
 
   12.1. Must Be Written: Waivers or modifications of this Agreement, or of any covenant, condition, or limitation contained herein, are valid only if in writing. Such writing must be duly executed by the parties.
 
   12.2. No Use As Evidence: One or more waivers or modifications of any covenant, term or condition in this Agreement by any party shall not be construed by any other party as a waiver or modification applicable to any subsequent breach of the same covenant, term or condition. Evidence of any such waiver or modification may not be offered or received in evidence in any proceeding, arbitration, or litigation between the parties arising out of or affecting this Agreement, or a party's rights or obligations under it. This limitation does not apply if the waiver or modification is in writing and duly executed as provided above.
 
-13. COOPERATION AND FURTHER ACTIONS. The parties agree to perform any and all acts and to execute and deliver any and all documents necessary or convenient to carry out the terms of this Agreement.
+##13. COOPERATION AND FURTHER ACTIONS. The parties agree to perform any and all acts and to execute and deliver any and all documents necessary or convenient to carry out the terms of this Agreement.
 
-14. PROFESSIONAL FEES.  If a lawsuit or other proceedings are instituted by any party to enforce any of the terms or conditions of this Agreement against any other party hereto, the prevailing party in such litigation or proceedings shall be entitled, as an additional item of damages, to such reasonable attorneys' and other professional fees (including but not limited to expert witness fees) and court costs or costs of such other proceedings as may be fixed by any court of competent jurisdiction, or other judicial or quasi judicial body having jurisdiction thereof, whether or not such litigation or proceedings proceed to a final judgment or award.
+##14. PROFESSIONAL FEES.  If a lawsuit or other proceedings are instituted by any party to enforce any of the terms or conditions of this Agreement against any other party hereto, the prevailing party in such litigation or proceedings shall be entitled, as an additional item of damages, to such reasonable attorneys' and other professional fees (including but not limited to expert witness fees) and court costs or costs of such other proceedings as may be fixed by any court of competent jurisdiction, or other judicial or quasi judicial body having jurisdiction thereof, whether or not such litigation or proceedings proceed to a final judgment or award.
 
-15. COUNTERPARTS.  This Agreement may be executed in several counterparts, each of which so executed shall be deemed to be an original, but such counterparts shall together constitute and be one and the same instrument.
+##15. COUNTERPARTS.  This Agreement may be executed in several counterparts, each of which so executed shall be deemed to be an original, but such counterparts shall together constitute and be one and the same instrument.
 
-16. SEVERABILITY.  If any part, clause, or condition of this Agreement is held to be partially or wholly invalid, unenforceable, or inoperative for any reason whatsoever, such shall not affect any other provision or portion hereof, which shall continue to be effective as though such invalid, inoperative, or unenforceable part, clause or condition had not been made.
+##16. SEVERABILITY.  If any part, clause, or condition of this Agreement is held to be partially or wholly invalid, unenforceable, or inoperative for any reason whatsoever, such shall not affect any other provision or portion hereof, which shall continue to be effective as though such invalid, inoperative, or unenforceable part, clause or condition had not been made.
 
-17. BINDING UPON SUCCESSORS.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, legal representatives, successors and assigns.
+##17. BINDING UPON SUCCESSORS.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, legal representatives, successors and assigns.
 
-18. RECITALS.  The Recitals in this Agreement are incorporated into the body of this Agreement. To the extent the Recitals are inconsistent with the terms of this Agreement, the terms of this Agreement shall control.
+##18. RECITALS.  The Recitals in this Agreement are incorporated into the body of this Agreement. To the extent the Recitals are inconsistent with the terms of this Agreement, the terms of this Agreement shall control.
 
-19. GOVERNING LAW AND VENUE.  All questions concerning this Agreement, its construction, and the rights and liabilities of the parties hereto shall be interpreted and enforced in accordance with the laws of the State of [The State Juristiction of Choice] as applied to contracts which are executed and performed entirely within the state. For purposes of this Agreement, sole and proper venue shall be either the state or federal courts having jurisdiction over [The City Juristiction or Choice], [The State Juristiction of Choice].
+##19. GOVERNING LAW AND VENUE.  All questions concerning this Agreement, its construction, and the rights and liabilities of the parties hereto shall be interpreted and enforced in accordance with the laws of the State of [The State Juristiction of Choice] as applied to contracts which are executed and performed entirely within the state. For purposes of this Agreement, sole and proper venue shall be either the state or federal courts having jurisdiction over [The City Juristiction or Choice], [The State Juristiction of Choice].
 
-20. INTERPRETATION
+##20. INTERPRETATION
 
   20.1. Paragraph Headings. The paragraph headings of this Agreement are included for purposes of convenience only, and shall not affect the construction or interpretation of any of its provisions.
 
@@ -146,11 +146,11 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
   20.3. Gender and Number. Whenever required by the context, the singular shall include the plural, the plural shall include the singular, and the masculine gender shall include the neuter and feminine genders and vice versa.
 
-21. TIME OF ESSENCE. The parties acknowledge and agree that time is strictly of the essence with respect to each and every term, condition, obligation and provision hereof. Failure to timely perform any of the terms, conditions, obligations or provisions hereof by any party shall constitute a material breach of this Agreement by the party so falling to perform.
+##21. TIME OF ESSENCE. The parties acknowledge and agree that time is strictly of the essence with respect to each and every term, condition, obligation and provision hereof. Failure to timely perform any of the terms, conditions, obligations or provisions hereof by any party shall constitute a material breach of this Agreement by the party so falling to perform.
 
-22. RELATIONSHIP CREATED.  Absent any relationship otherwise existing, nothing contained herein or in any schedule, attachment, or exhibit hereto shall create any partnership, joint venture or other agreement between the parties hereto.
+##22. RELATIONSHIP CREATED.  Absent any relationship otherwise existing, nothing contained herein or in any schedule, attachment, or exhibit hereto shall create any partnership, joint venture or other agreement between the parties hereto.
 
-23. THIRD PARTY BENEFICIARIES. No term or provision of this Agreement is intended to be, or shall be, for the benefit of any person, firm organization or corporation not a party hereto, and no such other person, firm, organization or corporation shall have any right or cause of action hereunder.
+##23. THIRD PARTY BENEFICIARIES. No term or provision of this Agreement is intended to be, or shall be, for the benefit of any person, firm organization or corporation not a party hereto, and no such other person, firm, organization or corporation shall have any right or cause of action hereunder.
 
 IN WITNESS WHEREOF, the parties acknowledge that they have read and understand this Agreement in its entirety, have had the opportunity to seek legal counsel if so desired, and have executed this Agreement on the date first written above and effective as of the Effective Date.
 
