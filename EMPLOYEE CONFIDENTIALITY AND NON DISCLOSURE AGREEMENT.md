@@ -96,11 +96,14 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
     5.5.3.  taking such additional action (including, but not limited to the execution and delivery of documents) to perfect, evidence or vest [AKA] or [AKA]'s designee, all right, title and interest in and to any Confidential Information and/or Materials.
 
-##6.  INJUNCTIVE RELIEF.  Employee acknowledges that a breach of this Agreement would cause [AKA] irreparable harm, for which money is NOT an adequate compensation. Employee agrees that [AKA] shall be entitled to injunctive relief and specific performance to enforce this Agreement, in addition to damages and other available remedies.
+##6.  INJUNCTIVE RELIEF.  
+  Employee acknowledges that a breach of this Agreement would cause [AKA] irreparable harm, for which money is NOT an adequate compensation. Employee agrees that [AKA] shall be entitled to injunctive relief and specific performance to enforce this Agreement, in addition to damages and other available remedies.
 
-##7.  ADDITIONAL REMEDIES.  Nothing in this Agreement is intended to restrict or limit any rights that [AKA] may have.
+##7.  ADDITIONAL REMEDIES. 
+  Nothing in this Agreement is intended to restrict or limit any rights that [AKA] may have.
 
-##8.  SURVIVAL OF REPRESENTATIONS AND WARRANTIES.  Each and every representation, warranty and covenant set forth herein is true as of the date of execution and shall survive the same.
+##8.  SURVIVAL OF REPRESENTATIONS AND WARRANTIES. 
+  Each and every representation, warranty and covenant set forth herein is true as of the date of execution and shall survive the same.
 
 ##9.  ENTIRE AGREEMENT
 
@@ -110,7 +113,8 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
   9.3.  No Reliance: The parties further acknowledge that any statements or representations that may have been made by any of them to the others are void and of not effect. No party has relied on any such statements or representations in dealing with the other(s).
 
-##10. NO OBLIGATION.  This Agreement does not require [AKA] to disclose any particular information.  Any disclosure is voluntary and except for the obligations specified in this agreement, no obligation, contract, liability or relationship is created or modified as a result of any disclosures. Similarly, the disclosure of Confidential Information under this agreement does not grant, create, confer, modify or transfer any right, license or authority in or to such Confidential Information.
+##10. NO OBLIGATION. 
+  This Agreement does not require [AKA] to disclose any particular information.  Any disclosure is voluntary and except for the obligations specified in this agreement, no obligation, contract, liability or relationship is created or modified as a result of any disclosures. Similarly, the disclosure of Confidential Information under this agreement does not grant, create, confer, modify or transfer any right, license or authority in or to such Confidential Information.
 
 ##11. BACKGROUND CHECK & SECURITY CLEARANCES.
 
@@ -124,19 +128,26 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
   12.2. No Use As Evidence: One or more waivers or modifications of any covenant, term or condition in this Agreement by any party shall not be construed by any other party as a waiver or modification applicable to any subsequent breach of the same covenant, term or condition. Evidence of any such waiver or modification may not be offered or received in evidence in any proceeding, arbitration, or litigation between the parties arising out of or affecting this Agreement, or a party's rights or obligations under it. This limitation does not apply if the waiver or modification is in writing and duly executed as provided above.
 
-##13. COOPERATION AND FURTHER ACTIONS. The parties agree to perform any and all acts and to execute and deliver any and all documents necessary or convenient to carry out the terms of this Agreement.
+##13. COOPERATION AND FURTHER ACTIONS. 
+  The parties agree to perform any and all acts and to execute and deliver any and all documents necessary or convenient to carry out the terms of this Agreement.
 
-##14. PROFESSIONAL FEES.  If a lawsuit or other proceedings are instituted by any party to enforce any of the terms or conditions of this Agreement against any other party hereto, the prevailing party in such litigation or proceedings shall be entitled, as an additional item of damages, to such reasonable attorneys' and other professional fees (including but not limited to expert witness fees) and court costs or costs of such other proceedings as may be fixed by any court of competent jurisdiction, or other judicial or quasi judicial body having jurisdiction thereof, whether or not such litigation or proceedings proceed to a final judgment or award.
+##14. PROFESSIONAL FEES.  
+  If a lawsuit or other proceedings are instituted by any party to enforce any of the terms or conditions of this Agreement against any other party hereto, the prevailing party in such litigation or proceedings shall be entitled, as an additional item of damages, to such reasonable attorneys' and other professional fees (including but not limited to expert witness fees) and court costs or costs of such other proceedings as may be fixed by any court of competent jurisdiction, or other judicial or quasi judicial body having jurisdiction thereof, whether or not such litigation or proceedings proceed to a final judgment or award.
 
-##15. COUNTERPARTS.  This Agreement may be executed in several counterparts, each of which so executed shall be deemed to be an original, but such counterparts shall together constitute and be one and the same instrument.
+##15. COUNTERPARTS.  
+  This Agreement may be executed in several counterparts, each of which so executed shall be deemed to be an original, but such counterparts shall together constitute and be one and the same instrument.
 
-##16. SEVERABILITY.  If any part, clause, or condition of this Agreement is held to be partially or wholly invalid, unenforceable, or inoperative for any reason whatsoever, such shall not affect any other provision or portion hereof, which shall continue to be effective as though such invalid, inoperative, or unenforceable part, clause or condition had not been made.
+##16. SEVERABILITY. 
+  If any part, clause, or condition of this Agreement is held to be partially or wholly invalid, unenforceable, or inoperative for any reason whatsoever, such shall not affect any other provision or portion hereof, which shall continue to be effective as though such invalid, inoperative, or unenforceable part, clause or condition had not been made.
 
-##17. BINDING UPON SUCCESSORS.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, legal representatives, successors and assigns.
+##17. BINDING UPON SUCCESSORS.  
+  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, legal representatives, successors and assigns.
 
-##18. RECITALS.  The Recitals in this Agreement are incorporated into the body of this Agreement. To the extent the Recitals are inconsistent with the terms of this Agreement, the terms of this Agreement shall control.
+##18. RECITALS.  
+  The Recitals in this Agreement are incorporated into the body of this Agreement. To the extent the Recitals are inconsistent with the terms of this Agreement, the terms of this Agreement shall control.
 
-##19. GOVERNING LAW AND VENUE.  All questions concerning this Agreement, its construction, and the rights and liabilities of the parties hereto shall be interpreted and enforced in accordance with the laws of the State of [The State Juristiction of Choice] as applied to contracts which are executed and performed entirely within the state. For purposes of this Agreement, sole and proper venue shall be either the state or federal courts having jurisdiction over [The City Juristiction or Choice], [The State Juristiction of Choice].
+##19. GOVERNING LAW AND VENUE.  
+  All questions concerning this Agreement, its construction, and the rights and liabilities of the parties hereto shall be interpreted and enforced in accordance with the laws of the State of [The State Juristiction of Choice] as applied to contracts which are executed and performed entirely within the state. For purposes of this Agreement, sole and proper venue shall be either the state or federal courts having jurisdiction over [The City Juristiction or Choice], [The State Juristiction of Choice].
 
 ##20. INTERPRETATION
 
@@ -146,11 +157,14 @@ IN CONSIDERATION of the mutual covenants and agreements contained herein, and or
 
   20.3. Gender and Number. Whenever required by the context, the singular shall include the plural, the plural shall include the singular, and the masculine gender shall include the neuter and feminine genders and vice versa.
 
-##21. TIME OF ESSENCE. The parties acknowledge and agree that time is strictly of the essence with respect to each and every term, condition, obligation and provision hereof. Failure to timely perform any of the terms, conditions, obligations or provisions hereof by any party shall constitute a material breach of this Agreement by the party so falling to perform.
+##21. TIME OF ESSENCE.
+  The parties acknowledge and agree that time is strictly of the essence with respect to each and every term, condition, obligation and provision hereof. Failure to timely perform any of the terms, conditions, obligations or provisions hereof by any party shall constitute a material breach of this Agreement by the party so falling to perform.
 
-##22. RELATIONSHIP CREATED.  Absent any relationship otherwise existing, nothing contained herein or in any schedule, attachment, or exhibit hereto shall create any partnership, joint venture or other agreement between the parties hereto.
+##22. RELATIONSHIP CREATED.  
+  Absent any relationship otherwise existing, nothing contained herein or in any schedule, attachment, or exhibit hereto shall create any partnership, joint venture or other agreement between the parties hereto.
 
-##23. THIRD PARTY BENEFICIARIES. No term or provision of this Agreement is intended to be, or shall be, for the benefit of any person, firm organization or corporation not a party hereto, and no such other person, firm, organization or corporation shall have any right or cause of action hereunder.
+##23. THIRD PARTY BENEFICIARIES. 
+  No term or provision of this Agreement is intended to be, or shall be, for the benefit of any person, firm organization or corporation not a party hereto, and no such other person, firm, organization or corporation shall have any right or cause of action hereunder.
 
 IN WITNESS WHEREOF, the parties acknowledge that they have read and understand this Agreement in its entirety, have had the opportunity to seek legal counsel if so desired, and have executed this Agreement on the date first written above and effective as of the Effective Date.
 
