@@ -31,12 +31,12 @@ C.
 3. 
 
 
-##List of Trademarks and Domain Names
+##List of Trademarks and Domain Names:
 A.
 B. 
 C.
 
-##Copyrights, Concepts, Inventions 
+##Copyrights, Concepts, Inventions: 
 A. 
 B.
 C. 
